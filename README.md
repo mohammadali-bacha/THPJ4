@@ -1,4 +1,9 @@
 # Google
 
-Pour travailler sur ce projet nous avons experimenté le pair programming. Nous avons divisé le travail en deux groupes, un groupe s'occupant du header & footer et l'autre du body.
-Nous avons alterné les codeurs, d'ou une différence de style entre les parties.
+Pair programming avec :
+
+eesydo: https://github.com/eesydo
+
+oseus: https://github.com/oseus
+
+mohammadali-bacha https://github.com/mohammadali-bacha

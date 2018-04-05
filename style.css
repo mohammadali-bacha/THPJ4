@@ -140,7 +140,9 @@ a:hover {
 
 hr {border: 0.5px solid #DCDCDC}
 
-
+#BB{display: flex;
+justify-content: center;
+font-size: 8px;}
 
 .France{
   font-family: 'Noto Sans', sans-serif;
